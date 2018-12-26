@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #2e2e2e;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+.menu ul li {
+    list-style: none;
+    display:inline-block;
+    margin-right:20px;
+}
+.menu ul li a:hover{
+    color:lightgreen;
+    text-decoration: none;
+}
+
+.menu ul{
+    margin-top: 13px;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+.top{
+    top:100px;
+    position: relative;
+}
+
+img{
+    border-radius: 50%;
+}

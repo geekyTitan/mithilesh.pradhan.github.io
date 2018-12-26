@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #2e2e2e;
+
+    font-family: 'Lato', sans-serif;
+}
+
+.menu ul li {
+    list-style: none;
+    display:inline-block;
+    margin-right:20px;
+}
+.menu ul li a:hover{
+    color:lightgreen;
+    text-decoration: none;
+}
+
+.menu ul{
+    margin-top: 13px;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+.top{
+    top:100px;
+    position: relative;
+}
+
+.contact{
+    margin:240px 0 0 100px;
+    border-left:1px solid red;
+}
+
+.contact h3,h4{
+    color:aquamarine;
+}
+
+.social ul li {
+    list-style: none;
+    display:inline-block;
+    margin-right:30px;
+    font-size: 25px;
+}
+
+.social{
+    position: absolute;
+    left: -20px;
+}
+
+.fb{
+    color: #3b5998;
+}
+
+.tw{
+    color:#00aced;
+}
+.gh{
+    color:#fafafa;
+}
+
+.brandcopy{
+    top:200px;
+    position: absolute;
+    margin-left:5px;
+    color: #c46c6c;
+}
+
+.bg{
+    background: #e1cfcf;
+}
+
